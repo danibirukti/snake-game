@@ -6,7 +6,7 @@
 
 const canvas = document.querySelector(".canvas");
 const ctx = canvas.getContext("2d");
-
+// test comment 
 // Take a look at the returned object on your console 
 console.log(ctx);
 
